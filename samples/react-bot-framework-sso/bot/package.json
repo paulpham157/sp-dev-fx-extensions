@@ -27,7 +27,7 @@
         "restify-cors-middleware": "^1.1.1"
     },
     "devDependencies": {
-        "eslint": "^6.6.0",
+        "eslint": "^10.1.0",
         "eslint-config-standard": "^14.1.0",
         "eslint-plugin-import": "^2.18.2",
         "eslint-plugin-node": "^10.0.0",
